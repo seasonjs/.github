@@ -2,7 +2,7 @@
 
 Simple and easy to use, truthful and pragmatic.
 
-## Sponsor
+## sponsor
 
 Special thanks to [JetBrains support](https://jb.gg/OpenSourceSupport) for sponsoring.
 
